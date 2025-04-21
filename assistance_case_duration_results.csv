@@ -1,0 +1,5 @@
+Duration,Number of cases,Average SR duration (months)
+<= 3 months,912,0.5140908065051086
+<= 6 months,969,0.8821446065184966
+<= 9 months,983,1.0708219898109068
+<= 12 months,992,1.2307399292282886
